@@ -8,11 +8,10 @@
 
 > Add screenshots to make the README instantly credible.
 
-- **Dashboard**: `screenshot-dashboard.png`
-- **Jobs**: `screenshot-jobs.png`
-- **Upload Resume**: `screenshot-upload.png`
-- **Match Results**: `screenshot-matches.png`
-
+- **Dashboard**: ![picture](https://github.com/itsareebaah/AI_JobFinding/blob/965c9f721f05244dd51d5127048518c9cb703e5a/Screenshot%202026-05-23%20165750.png)
+- **Jobs**: ![jobs ss](https://github.com/itsareebaah/AI_JobFinding/blob/965c9f721f05244dd51d5127048518c9cb703e5a/Screenshot%202026-05-23%20165800.png)
+- **Candidates**: ![candidate ss](https://github.com/itsareebaah/AI_JobFinding/blob/965c9f721f05244dd51d5127048518c9cb703e5a/Screenshot%202026-05-23%20165816.png)
+- **Match Results**: ![AI_match](https://github.com/itsareebaah/AI_JobFinding/blob/965c9f721f05244dd51d5127048518c9cb703e5a/Screenshot%202026-05-23%20165826.png)
 ---
 
 ## Why this project
